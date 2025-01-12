@@ -1,0 +1,1 @@
+# sum-of-n-number-using-while-loop
